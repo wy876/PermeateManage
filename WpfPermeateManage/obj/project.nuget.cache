@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GXfgrtXiiGiIn3R/+rR2TSlYJLZi4cQtBBL78NXM2sjPAP6nG6qiD34GG2NX6MZZadLcprx2ab58L66afyryTQ==",
+  "success": true,
+  "projectFilePath": "H:\\WpfPermeateManage\\管理器\\WpfPermeateManage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\26927\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\26927\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\26927\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}

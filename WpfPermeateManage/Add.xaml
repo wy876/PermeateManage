@@ -1,0 +1,23 @@
+﻿<Window x:Class="管理器.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:管理器"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="添加分类" Height="160" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="0,0,0,10">
+            <TextBox x:Name="text1" VerticalContentAlignment="Center" Margin="10,10,10,10"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button x:Name="Sure" Content="确定" Margin="25,14,135,13" Click="Sure_Click"/>
+            <Button x:Name="Close" Content="取消" Margin="140,14,20,13" Click="Close_Click" />
+        </Grid>
+    </Grid>
+</Window>
